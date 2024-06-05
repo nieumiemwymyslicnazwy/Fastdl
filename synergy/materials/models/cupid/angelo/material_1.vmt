@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cupid/angelo/Material_1"
+	"$surfaceprop" "Flesh"
+	"$surfaceprop2" "Flesh"
+}
